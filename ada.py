@@ -1,2 +1,3 @@
-print('eee')
-print('babza')
+import math
+
+print(math.pi)
